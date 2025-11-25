@@ -19,4 +19,5 @@ Automatizar el login en: https://the-internet.herokuapp.com/digest_auth
 
 1. Clona el repositorio:
    ```bash
-   git clone <tu-repo-url>
+   git clone <https://github.com/jessicadesangronis/selenium-digest-auth.git>
+   
